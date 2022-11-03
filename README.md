@@ -10,4 +10,5 @@ Note: If you own Keyscape and/or Valhalla VintageVerb, you can use the Sunday Se
 ## What are the differences between each ALS file?
 Simple Template - Keyscape | Pad<br/>
 Watch and Pray - Keyscape | Pad | Low/High Strings<br/>
-Sunday Set - Keyscape | Pad | Low/High Strings | Synths
+Sunday Set - Keyscape | Pad | Low/High Strings | Synths<br/>
+There are also various MIDI maps that are not present in Simple Template and Watch and Pray.
