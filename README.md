@@ -1,4 +1,4 @@
-# Lifepoint Worship Ableton FAQ
+# FAQ
 
 ## I own a copy of Ableton, can I get a simple Ableton template?
 Download the Lifepoint Worship and TDR Nova zip files and then extract them. Install TDR Nova and open the barebones template. <br/>
